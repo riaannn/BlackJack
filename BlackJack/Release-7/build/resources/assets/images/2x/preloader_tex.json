@@ -1,0 +1,1 @@
+{"imagePath":"preloader_tex.png","width":1024,"SubTexture":[{"width":656,"y":509,"height":10,"name":"progress_bar_bg","x":1},{"width":668,"y":485,"height":22,"name":"progress_bar","x":1},{"width":682,"y":1,"height":482,"name":"logo","x":1}],"height":1024,"name":"preloader"}
